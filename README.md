@@ -24,4 +24,4 @@ Then Augmented the data because the data for training was less using Augmentor .
 
 After that , Annotated the data using labelimg.
 
-Then trained the model using Tensorflow 1.x
+Then trained the model using Tensorflow 1.x ,model - ssd_mobilenet_v1_coco
